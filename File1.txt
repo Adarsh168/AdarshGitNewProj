@@ -1,1 +1,1 @@
-my file one doc
+my file one doc file 1 is changed after the commit
